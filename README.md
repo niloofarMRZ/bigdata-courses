@@ -1,5 +1,5 @@
 # bigdata-courses
-#HomeWork 1 ,2, 3 :
+HomeWork 1 ,2, 3 :
 
 These homeworks are written by Scala language.
 You can see related pdf of questions in every homework.
@@ -12,3 +12,20 @@ HW2 : RandomForest In Spark (KDDCUP999 Dataset)  and  Decision Tree (MNIST Datas
 for running homework 2 please first unzip mnist data in same folder 
 
 HW3 : Spark GraphX Library (US Flights Informations)
+
+-HomeWork 4 :
+( assingment3 of Stanford University cs231)
+Q1: Image Captioning with Vanilla RNNs.
+
+Q2: Image Captioning with LSTMs. 
+
+Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images. (pytorch)
+
+Q4: Style Transfer. (pytorch)
+
+Q5: Generative Adversarial Networks(GAN). (pytorch)
+You can do Questions 3, 4, and 5 in TensorFlow or PyTorch.
+
+You should Run iPython notebooks (with Jupyter) in HW4 Folder.
+
+For running HW4 also you can Clone this GitHub Repo in google colab, next, Run iPython notebooks .
